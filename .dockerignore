@@ -1,0 +1,14 @@
+node_modules
+npm-debug.log
+.next
+.git
+.tmp
+*.log
+.DS_Store
+node_modules
+.rts2_cache_cjs
+.rts2_cache_esm
+.rts2_cache_umd
+dist
+*.cbor
+*.key
